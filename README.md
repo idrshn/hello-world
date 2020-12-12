@@ -1,2 +1,2 @@
 # hello-world
-basic 
+this is the basic repo to learn github.
